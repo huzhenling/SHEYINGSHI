@@ -50,6 +50,9 @@
       <Location name="info"/>
       <Location name="info_娜塔莉亞"/>
       <Location name="info_薰樱子"/>
+      <Location name="info_西村ニーナ"/>
+      <Location name="info_推川ゆうり"/>
+      <Location name="info_羽生ありさ"/>
       <Location name="call_antonina"/>
     </Folder>
     <Folder name="系统">
