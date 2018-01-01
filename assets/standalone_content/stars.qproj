@@ -48,11 +48,18 @@
     <Folder name="人物">
       <Location name="info_gg"/>
       <Location name="info"/>
-      <Location name="info_娜塔莉亞"/>
       <Location name="info_薰樱子"/>
       <Location name="info_西村ニーナ"/>
       <Location name="info_推川ゆうり"/>
       <Location name="info_羽生ありさ"/>
+      <Location name="info_美月優芽"/>
+      <Location name="info_大槻响"/>
+      <Location name="info_滨崎真绪"/>
+      <Location name="info_藤本紫媛"/>
+      <Location name="info_南沙也香"/>
+      <Location name="info_西条沙羅"/>
+      <Location name="info_千乃あずみ"/>
+      <Location name="info_娜塔莉亞"/>
       <Location name="call_antonina"/>
     </Folder>
     <Folder name="系统">
