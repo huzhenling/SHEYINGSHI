@@ -34,7 +34,6 @@
     <Location name="东京公寓"/>
     <Location name="娜塔莉亚拍照"/>
     <Location name="娜塔莉亚性感照"/>
-    <Location name="娜塔莉亚摄影"/>
     <Location name="便利店"/>
     <Location name="漁村民宿"/>
     <Location name="漁村民宿廊下"/>
@@ -62,6 +61,7 @@
       <Location name="info_西条沙羅"/>
       <Location name="info_千乃あずみ"/>
       <Location name="info_娜塔莉亞"/>
+      <Location name="info_樱井夕树"/>
       <Location name="call_antonina"/>
     </Folder>
     <Folder name="系统">
@@ -106,7 +106,6 @@
     <Location name="README!!!"/>
     <Folder name="实验">
       <Location name="实验室"/>
-      <Location name="摄影实验"/>
       <Location name="发行结算"/>
     </Folder>
   </Structure>
