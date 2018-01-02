@@ -401,15 +401,19 @@ overflow:hidden;
 }
 
 #作品信息{
-	font-family:zhulang;
+	font-family:xindi;
 	color:#0000CD;
 	position:absolute;
 	left:460px;
 	top:100px; 
+	width:700px;
+    height:530px;
 	z-index:4;
 	padding:0;
 	word-wrap:break-word;
-	font-size:16px;
+	font-size:20px;
+	line-height:32px;
+	overflow:auto;
 }
 
 #隨手塗鴉左{
