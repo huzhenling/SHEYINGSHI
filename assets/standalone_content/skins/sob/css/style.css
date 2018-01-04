@@ -1427,6 +1427,97 @@ line-height:150%;
 	z-index:1;
 }
 
+/* 报刊系统 超级牛逼的功能 ==================================================*/
+
+#报刊年份{
+	font-family:xindi;
+	color:#000000;
+	position:absolute;
+	left:709px;
+	top:8px; 
+	width:81px;
+    height:29px;
+	z-index:50;
+	padding:0;
+	word-wrap:break-word;
+	font-size:25px;
+	text-align:center;
+	line-height:32px;
+}
+#报刊日期{
+	font-family:xindi;
+	color:#000000;
+	position:absolute;
+	left:700px;
+	top:35px; 
+	width:99px;
+    height:25px;
+	z-index:50;
+	padding:0;
+	word-wrap:break-word;
+	font-size:20px;
+	text-align:center;
+	line-height:32px;
+}
+#报刊星期{
+	font-family:xindi;
+	color:#000000;
+	position:absolute;
+	left:700px;
+	top:65px; 
+	width:99px;
+    height:25px;
+	z-index:50;
+	padding:0;
+	word-wrap:break-word;
+	font-size:20px;
+	text-align:center;
+	line-height:32px;
+}
+#当月热门画面{
+	position:absolute;
+	left:304px;
+	top:3px; 
+	width:390px;
+    height:390px;
+	z-index:40;
+}
+#当月热门文字{
+	font-family:zhulang;
+	color:#FF0000;
+	text-shadow:#000 1px 0 0,#000 0 1px 0,#000 -1px 0 0,#000 0 -1px 0;
+-webkit-text-shadow:#000 1px 0 0,#000 0 1px 0,#000 -1px 0 0,#000 0 -1px 0;
+-moz-text-shadow:#000 1px 0 0,#000 0 1px 0,#000 -1px 0 0,#000 0 -1px 0;
+*filter: Glow(color=#000, strength=1);
+	position:absolute;
+	left:320px;
+	top:270px; 
+	width:390px;
+    height:136px;
+	z-index:50;
+	padding:0;
+	word-wrap:break-word;
+	font-size:40px;
+	text-align:center;
+	line-height:50px;
+	overflow:auto;
+}
+#当月热门女优{
+	position:absolute;
+	left:19px;
+	top:4px; 
+	width:206px;
+    height:290px;
+	z-index:40;
+}
+#报纸背景{
+    width: 900px;
+    height: 720px;
+    max-height: 720px;
+    margin-bottom: 1px;
+    overflow: hidden;
+	text-align: center;
+}
 /* 人物立绘 =================================================================*/
 
 #人物右邊{

@@ -14,6 +14,7 @@
     <Location name="作品信息"/>
     <Location name="npc"/>
     <Location name="items"/>
+    <Location name="报刊新闻"/>
     <Location name="hall"/>
     <Location name="home"/>
     <Location name="市中心"/>
@@ -90,7 +91,7 @@
       <Location name="gs_责骂"/>
       <Location name="gs_week"/>
       <Location name="gs_day"/>
-      <Location name="gs_评级系统"/>
+      <Location name="gs_报刊系统"/>
       <Location name="gs_摄影系统"/>
       <Location name="gs_摄影归零"/>
       <Location name="gs_发行系统"/>
