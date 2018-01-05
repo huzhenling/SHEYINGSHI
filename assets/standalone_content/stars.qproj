@@ -15,8 +15,6 @@
     <Location name="npc"/>
     <Location name="items"/>
     <Location name="报刊新闻"/>
-    <Location name="hall"/>
-    <Location name="home"/>
     <Location name="市中心"/>
     <Location name="涉谷区"/>
     <Location name="夜市街区"/>
@@ -36,13 +34,6 @@
     <Location name="娜塔莉亚拍照"/>
     <Location name="娜塔莉亚性感照"/>
     <Location name="便利店"/>
-    <Location name="漁村民宿"/>
-    <Location name="漁村民宿廊下"/>
-    <Location name="漁村民宿寢室"/>
-    <Location name="漁村海灘"/>
-    <Location name="漁村1"/>
-    <Location name="漁村後山"/>
-    <Location name="漁村街道"/>
     <Location name="room_gg_sleep"/>
     <Location name="room_gg_alarm_clock_set"/>
     <Location name="room_gg_alarm_clock"/>
